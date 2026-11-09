@@ -10,8 +10,8 @@ Aqui você encontra scripts em R e Python, explicações, exemplos e referência
 
 | Tema | Pasta |
 |---|---|
-| Transcriptômica de célula única (scRNA-seq) | [`01-transcriptomica-celula-unica/`](01-transcriptomica-celula-unica/) |
-| scATAC-seq e acessibilidade da cromatina | [`02-atac-seq/`](02-atac-seq/) |
+| Transcriptômica de célula única (scRNA-seq) | [`01-sc_RNA-seq/`](01-sc_RNA-seq/) |
+| scATAC-seq e acessibilidade da cromatina | [`02-sc_atac-seq/`](02-sc_atac-seq/) |
 | Bioestatística e modelagem | [`03-bioestatistica/`](03-bioestatistica/) |
 | Biologia molecular | [`04-biologia-molecular/`](04-biologia-molecular/) |
 | R e Python para biologia | [`05-r-python/`](05-r-python/) |
