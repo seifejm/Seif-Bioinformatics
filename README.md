@@ -27,7 +27,7 @@ Aqui você encontra scripts em R e Python, explicações, exemplos e referência
 
 ## Canal
 
-YouTube: **Seif Bioinformatics** — adicione aqui o link oficial do canal.
+YouTube: https://www.youtube.com/@seif.bioinformatics
 
 ## Licença e uso
 
