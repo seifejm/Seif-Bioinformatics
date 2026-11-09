@@ -25,11 +25,6 @@ Aqui você encontra scripts em R e Python, explicações, exemplos e referência
 
 > Os scripts são recursos didáticos. Adapte filtros e parâmetros ao seu próprio desenho experimental. Dados reais de participantes e resultados confidenciais não devem ser publicados.
 
-## Aulas disponíveis
-
-- **Aula 01 — Organização de Projetos no RStudio:** [`abrir pasta`](01-transcriptomica-celula-unica/aula-01-organizacao-rstudio/)
-- **Aula 02 — Introdução ao Seurat:** pasta reservada para publicação futura.
-
 ## Canal
 
 YouTube: **Seif Bioinformatics** — adicione aqui o link oficial do canal.
