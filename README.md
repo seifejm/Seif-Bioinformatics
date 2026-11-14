@@ -35,8 +35,8 @@ YouTube: https://www.youtube.com/@seif.bioinformatics
 Gostou das aulas? Apoie o canal com um café e ajude a manter o conteúdo gratuito!
 
 <a href="https://pagaum.cafe/seifbioinfo?ref=badge">
-  <img src="https://pagaum.cafe/api/badge?handle=seifbioinfo&bg=preto&text=cafe" height="48" alt="Paga um café">
-</a>
+ <img width="452" height="149" alt="image" src="https://github.com/user-attachments/assets/05eaec4e-a4b2-4548-b0c8-c86437f7c95f" />
+
 
 
 ## Licença e uso
