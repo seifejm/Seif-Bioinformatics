@@ -29,6 +29,8 @@ Aqui você encontra scripts em R e Python, explicações, exemplos e referência
 
 YouTube: https://www.youtube.com/@seif.bioinformatics
 
+[![Paga um café](LINK_DA_IMAGEM_PNG)](https://pagaum.cafe/seifbioinfo)
+
 ## Licença e uso
 
 Antes de reutilizar ou redistribuir códigos, verifique a licença aplicável. Este repositório ainda não possui uma licença de software definida.
