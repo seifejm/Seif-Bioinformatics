@@ -29,7 +29,14 @@ Aqui você encontra scripts em R e Python, explicações, exemplos e referência
 
 YouTube: https://www.youtube.com/@seif.bioinformatics
 
-[![Paga um café](https://pagaum.cafe/api/badge?handle=seifbioinfo&bg=amarelo&text=cafe)](https://pagaum.cafe/seifbioinfo?ref=badge)
+
+## ☕ Apoie o Seif Bioinformatics
+
+Gostou das aulas? Apoie o canal com um café e ajude a manter o conteúdo gratuito!
+
+<a href="https://pagaum.cafe/seifbioinfo?ref=badge">
+  <img src="https://pagaum.cafe/api/badge?handle=seifbioinfo&bg=preto&text=cafe" height="48" alt="Paga um café">
+</a>
 
 
 ## Licença e uso
